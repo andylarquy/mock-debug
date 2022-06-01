@@ -1,0 +1,39 @@
+{
+  "challenge-3": [
+    {
+      "score": "0.2",
+      "count": "2"
+    },
+    {
+      "score": "0.5",
+      "count": "3"
+    },
+    {
+      "score": "0.7",
+      "count": "5"
+    },
+    {
+      "score": "0.8",
+      "count": "3"
+    }
+  ],
+  "challenge-4": [
+    {
+      "score": "0.2",
+      "count": "2"
+    },
+    {
+      "score": "0.4",
+      "count": "2"
+    },
+    {
+      "score": "0.8",
+      "count": "5"
+    },
+​
+    {
+      "score": "0.9",
+      "count": "2"
+    }
+  ]
+}
